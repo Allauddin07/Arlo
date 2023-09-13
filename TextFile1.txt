@@ -1,0 +1,26 @@
+Assumptions:
+
+Data Object Structure: The solution assumes that the data object provided to the TemplateEngine class has a structure that matches the placeholders in the template. In other words, if a template contains [Person.FirstName], the data object should have a Person property with a FirstName property inside it.
+
+Property Existence: It assumes that the properties referenced in the template placeholders exist in the data object. If a property is missing, it will return null for that placeholder.
+
+Formatting: The solution assumes that the formatting provided within placeholders (e.g., [Price "C2"]) is valid and can be applied to the corresponding data value.
+
+Scope Blocks: For scope blocks, the assumption is that the property specified in [with PropertyName] corresponds to a property in the data object that holds data for the enclosed block.
+
+String Templates: The solution assumes that the input templates are provided as strings.
+
+
+
+
+Limitations:
+
+No Error Handling: The current implementation does not provide robust error handling. If there are issues with the template format or if there are errors during property resolution, the behavior may not be graceful.
+
+Limited Type Support: The solution primarily works with simple types and does not handle more complex data structures or custom formatting logic for specific types. It assumes that objects in the data structure have properties that can be directly converted to strings.
+
+No Escape Mechanism: If the input template contains characters similar to placeholders (e.g., [FieldA.FieldB]) but they are not intended to be placeholders, there's no built-in escape mechanism to prevent their interpretation as placeholders.
+
+Performance: While the current implementation should work well for small to moderately-sized templates and data objects, it may not be optimized for large templates or deeply nested data structures. Consider performance implications for very large templates or data objects.
+
+No Localization Support: There's no built-in support for localization or language-specific formatting in the current solution.

@@ -1,0 +1,12 @@
+C:\Users\allau\Desktop\TemplateParser2022\TemplateParser2022\bin\Debug\net6.0\TemplateParser2022.deps.json
+C:\Users\allau\Desktop\TemplateParser2022\TemplateParser2022\bin\Debug\net6.0\TemplateParser2022.dll
+C:\Users\allau\Desktop\TemplateParser2022\TemplateParser2022\bin\Debug\net6.0\TemplateParser2022.pdb
+C:\Users\allau\Desktop\TemplateParser2022\TemplateParser2022\obj\Debug\net6.0\TemplateParser2022.csproj.AssemblyReference.cache
+C:\Users\allau\Desktop\TemplateParser2022\TemplateParser2022\obj\Debug\net6.0\TemplateParser2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allau\Desktop\TemplateParser2022\TemplateParser2022\obj\Debug\net6.0\TemplateParser2022.AssemblyInfoInputs.cache
+C:\Users\allau\Desktop\TemplateParser2022\TemplateParser2022\obj\Debug\net6.0\TemplateParser2022.AssemblyInfo.cs
+C:\Users\allau\Desktop\TemplateParser2022\TemplateParser2022\obj\Debug\net6.0\TemplateParser2022.csproj.CoreCompileInputs.cache
+C:\Users\allau\Desktop\TemplateParser2022\TemplateParser2022\obj\Debug\net6.0\TemplateParser2022.dll
+C:\Users\allau\Desktop\TemplateParser2022\TemplateParser2022\obj\Debug\net6.0\refint\TemplateParser2022.dll
+C:\Users\allau\Desktop\TemplateParser2022\TemplateParser2022\obj\Debug\net6.0\TemplateParser2022.pdb
+C:\Users\allau\Desktop\TemplateParser2022\TemplateParser2022\obj\Debug\net6.0\ref\TemplateParser2022.dll
